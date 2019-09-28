@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
   </head>
   <body>
-    <div class="container">
+    <div class="container text-center">
       <div class="row">
         <div class="col-md-12">
           <h1>Hai guys, selamat datang!</h1>
@@ -40,12 +40,7 @@
       </div>
       <div class="row">
         <div class="col-md-12">
-          <a href="https://github.com/erolweb"><i class="fab fa-github    "></i></a> 
-          <a href="https://github.com/erolweb"><i class="fas fa-github    "></i></a> 
-          <a href="https://github.com/erolweb"><i class="fab fa-github-alt    "></i></a> 
-          <a href="https://github.com/erolweb"><i class="fas fa-github-alt    "></i></a> 
-          <a href="https://github.com/erolweb"><i class="far fa-github    "></i></a> 
-          <a href="https://github.com/erolweb"><i class="fal fa-github    "></i></a> 
+          <a href="https://github.com/erolweb" target="_blank" rel="noopener noreferrer"><i class="fab fa-github fa-5x"></i></a>
         </div>
       </div>
       <div class="row">
